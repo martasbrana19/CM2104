@@ -11,3 +11,7 @@ footer, div {
 }
 .warning {font-weight: bold;}
 #first para {font-weight: bold;}
+
+#SiteTitle {float: right;}
+#SiteLogo {float: left;}
+#PageContent {float:inherit;}
