@@ -32,3 +32,30 @@ li a {
 li a:hover {
     background-color: #111;
 } */
+
+
+
+#SiteLogo {width: 10%;
+          heignt 10em;
+        float:left;}
+
+
+
+
+#form {
+  padding-top: 600px;
+}
+
+
+
+#name {float: inherit;}
+
+
+
+#gif { width: 100%;
+      heignt 50em;
+      float:right;
+    padding-top: 100px;
+
+
+}
