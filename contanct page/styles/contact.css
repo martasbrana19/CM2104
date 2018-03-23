@@ -4,7 +4,19 @@ footer, div {
 
 
 #SiteTitle {float: right;}
+
 #SiteLogo {float: left;
            width: 10%;
            heith: 10emp}
+
 #PageContent {float:inherit;}
+
+#landscape {float:inherit;
+            height: 50%;
+            widht: 100%;}
+
+#form {display: inline-block;
+       text-align: center;
+       justify-content: space-between;
+       width: 250px;
+       height: 250px;}
